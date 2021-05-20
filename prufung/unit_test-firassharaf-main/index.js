@@ -1,6 +1,6 @@
 
 // 1. Create a function named subNumbers that takes two number arguments. It should substract the second number from the first one, and return the result
-subNumbers = null;
+// subNumbers = null;
 
 function subNumbers (x, y) {
     return x - y;
